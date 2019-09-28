@@ -1,0 +1,69 @@
+body {
+  background:#ecfcff;
+  color: rgb(20,20,20);
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  padding: 10px;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/52526/sign-places-travel-information-52526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-position: center;
+  background-size: cover;
+  color: white;
+  padding: 150px;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner a{
+  margin: 10px;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 40px;
+}
+
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color: red;
+}
+
+#banner p {
+  color: white;
+  opacity: 1.5;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+
+#footer{
+  margin: 10px;
+  background: #a4d1c8;
+  color: white;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+
+h2{
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+  color:#464646;
+}
+
+a:hover{
+  color: green;
+}
